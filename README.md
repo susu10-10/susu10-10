@@ -5,8 +5,12 @@
 
 <br/>
 
-<!-- Profile views badge -->
-<img src="https://komarev.com/ghpvc/?username=su&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+<p align="center">
+  <a href="mailto:successchukwu20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.credly.com/users/your-credly-username/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+</p>
+
 
 </div>
 
@@ -16,7 +20,7 @@
 
 ```yaml
 Name        : Su
-Role        : DevSecOps Engineer (in the making)
+Role        : DevSecOps Engineer
 Focus       : Cloud Native Security · Infrastructure as Code · CI/CD Automation
 Passions    : [Kubernetes, Security Hardening, Multi-Cloud, Open Source]
 Currently   : Masters (MPhil Degree) Research and building production-grade pipelines 🔐
@@ -26,96 +30,82 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 - 🔭 Building and securing **cloud-native infrastructure** with Kubernetes, Terraform & CI/CD pipelines
 - 🔐 Passionate about **shifting security left** — integrating SAST, DAST, and policy-as-code into every pipeline
 - 👯 Looking to collaborate on **open-source DevSecOps tooling** and cloud-native security projects
-- 💬 Ask me about **Kubernetes, container security, IaC, or breaking things safely in a lab**
-- ⚡ Fun fact: I believe the best security team is one that makes it easier to do the right thing than the wrong thing
+- 💬 Ask me about **Kubernetes, container security, IaC, or compliance-as-code**
+-  I believe the best security team is one that makes it easier to do the right thing than the wrong thing
 
 ---
 
-## 🏅 Certifications
-
-### ✅ Earned
-<p>
-  <img src="https://img.shields.io/badge/CKAD-Certified_Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD"/>
-  <img src="https://img.shields.io/badge/KCNA-Kubernetes_%26_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCNA"/>
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
-  <img src="https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack & Skills
 
-### ☸️ Container Orchestration & Cloud Native
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-</p>
+**Cloud & Infrastructure**
 
-### 🏗️ Infrastructure as Code
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFCB3D?style=flat-square&logo=vault&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-</p>
+**Containers & Kubernetes**
 
-### 🔐 Security & Compliance
-<p>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-</p>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-### 🔄 CI/CD & Automation
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-</p>
+**CI/CD & GitOps**
 
-### 📊 Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
-</p>
+**Security Tooling**
 
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua-security&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-7D3F98?style=flat-square&logo=openpolicyagent&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🏅 Certifications
+
+  [![Terraform Associate](https://images.credly.com/size/110x110/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/earner/earned/badge/35b5a2fc-d497-42a8-bb21-dbaaba952338)
+  [![CKAD](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/earner/earned/badge/a7c524fe-d840-492e-aad2-b82317ddabf6)
+  [![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/earner/earned/badge/4e6ceeaf-9fed-4391-92f0-db19cdbc0d40)
+  [![Google Cybersecurity Cert](https://images.credly.com/size/110x110/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/earner/earned/badge/dec3dab2-d159-40d9-b462-0f1d19d170fd)
+  [![ISC2 CC](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/earner/earned/badge/07c8d9d4-110f-4164-b9a7-6f6ad976471e)
+  [![KCNA](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/earner/earned/badge/b85a0eb5-87f5-4567-a8a7-9fe7b7eff65d)
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Featured Projects
 
-<div align="center">
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [3-Tier K8s Automation: Phase 1](https://github.com/susu10-10/3tier-k8s-Automation) | CKAD‑style deployment of PostgreSQL, Flask API, and Nginx frontend using Kustomize, initContainers, and resource governance. Foundation for zero‑trust security lab. | Kubernetes · Kustomize · PostgreSQL · Flask · Nginx |
+| [3-Tier K8s Hardening: Phase 2](https://github.com/susu10-10/3tier-k8s-Hardening) | Hardened version with Pod Security Standards, non‑root users, read‑only filesystems, dropped capabilities, network policies, and secret management. | Kubernetes · Pod Security Standards · NetworkPolicies |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/success-chukwu-51a42188)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://susu10-10.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:successchukwu20@gmail.com)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
   <br/><br/>
   <i>⭐ If you find my work helpful, consider starring a repo — it means a lot! ⭐</i>
 </div>
+
+---
+
+<div align="center">
+<!-- Profile views badge -->
+<img src="https://komarev.com/ghpvc/?username=su&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  
+</div>  
