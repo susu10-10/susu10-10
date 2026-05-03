@@ -79,12 +79,12 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 
 ## 🏅 Certifications
 
-  [![Terraform Associate](https://images.credly.com/size/110x110/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/earner/earned/badge/35b5a2fc-d497-42a8-bb21-dbaaba952338)
-  [![CKAD](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/earner/earned/badge/a7c524fe-d840-492e-aad2-b82317ddabf6)
-  [![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/earner/earned/badge/4e6ceeaf-9fed-4391-92f0-db19cdbc0d40)
-  [![Google Cybersecurity Cert](https://images.credly.com/size/110x110/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/earner/earned/badge/dec3dab2-d159-40d9-b462-0f1d19d170fd)
-  [![ISC2 CC](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/earner/earned/badge/07c8d9d4-110f-4164-b9a7-6f6ad976471e)
-  [![KCNA](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/earner/earned/badge/b85a0eb5-87f5-4567-a8a7-9fe7b7eff65d)
+  [![Terraform Associate](https://images.credly.com/size/70x70/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/35b5a2fc-d497-42a8-bb21-dbaaba952338/public_url)
+  [![CKAD](https://images.credly.com/size/70x70/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/a7c524fe-d840-492e-aad2-b82317ddabf6/public_url)
+  [![CompTIA Security+](https://images.credly.com/size/70x70/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/4e6ceeaf-9fed-4391-92f0-db19cdbc0d40/public_url)
+  [![Google Cybersecurity Cert](https://images.credly.com/size/70x70/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/badges/dec3dab2-d159-40d9-b462-0f1d19d170fd/public_url)
+  [![ISC2 CC](https://images.credly.com/size/70x70/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/07c8d9d4-110f-4164-b9a7-6f6ad976471e/public_url)
+  [![KCNA](https://images.credly.com/size/70x70/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/b85a0eb5-87f5-4567-a8a7-9fe7b7eff65d/public_url)
 
 ---
 
