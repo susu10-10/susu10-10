@@ -79,6 +79,10 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 
 ## 🏅 Certifications
 
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/su-4514/FEBD91D02A3F54CD?sharingId=E01833103CBEAE47">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/github-actions.svg" alt="GitHub Actions" width="70" height="70"/>
+</a>
+
   [![Terraform Associate](https://images.credly.com/size/70x70/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/35b5a2fc-d497-42a8-bb21-dbaaba952338/public_url)
   [![CKAD](https://images.credly.com/size/70x70/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/a7c524fe-d840-492e-aad2-b82317ddabf6/public_url)
   [![CompTIA Security+](https://images.credly.com/size/70x70/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/4e6ceeaf-9fed-4391-92f0-db19cdbc0d40/public_url)
