@@ -23,12 +23,12 @@ Name        : Su
 Role        : DevSecOps Engineer
 Focus       : Cloud Native Security · Infrastructure as Code · CI/CD Automation
 Passions    : [Kubernetes, Security Hardening, Multi-Cloud, Open Source]
-Currently   : Master's (MPhil) research — building production-grade pipelines 🔐
+Currently   : Master's (MPhil) research, building production-grade pipelines 🔐
 Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 ```
 
 - 🔭 Building and securing **cloud-native infrastructure** with Kubernetes, Terraform & CI/CD pipelines
-- 🔐 Passionate about **shifting security left** — integrating SAST, DAST, and policy-as-code into every pipeline
+- 🔐 Passionate about **shifting security left** integrating SAST, DAST, and policy-as-code into every pipeline
 - 👯 Looking to collaborate on **open-source DevSecOps tooling** and cloud-native security projects
 - 💬 Ask me about **Kubernetes, container security, IaC, or compliance-as-code**
 - I believe the best security team is one that makes it easier to do the right thing than the wrong thing.
@@ -79,18 +79,41 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 
 ## 🏅 Certifications
 
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/su-4514/FEBD91D02A3F54CD?sharingId=E01833103CBEAE47">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/github-actions.svg" alt="GitHub Actions" width="70" height="70"/>
-</a>
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/su-4514/FEBD91D02A3F54CD?sharingId=E01833103CBEAE47" title="GitHub Actions">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/github-actions.svg" alt="GitHub Actions" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/su-4514/C16AF38158A58D85?sharingId=E01833103CBEAE47" title="GitHub Foundations">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/github-foundations.svg" alt="GitHub Foundations" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/35b5a2fc-d497-42a8-bb21-dbaaba952338/public_url" title="Terraform Associate">
+    <img src="https://images.credly.com/size/70x70/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Associate" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/a7c524fe-d840-492e-aad2-b82317ddabf6/public_url" title="CKAD">
+    <img src="https://images.credly.com/size/70x70/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/4e6ceeaf-9fed-4391-92f0-db19cdbc0d40/public_url" title="CompTIA Security+">
+    <img src="https://images.credly.com/size/70x70/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/dec3dab2-d159-40d9-b462-0f1d19d170fd/public_url" title="Google Cybersecurity Certificate">
+    <img src="https://images.credly.com/size/70x70/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/07c8d9d4-110f-4164-b9a7-6f6ad976471e/public_url" title="ISC2 CC">
+    <img src="https://images.credly.com/size/70x70/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="ISC2 CC" height="70" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/b85a0eb5-87f5-4567-a8a7-9fe7b7eff65d/public_url" title="KCNA">
+    <img src="https://images.credly.com/size/70x70/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" height="70" />
+  </a>
+</p>
 
-  [![Terraform Associate](https://images.credly.com/size/70x70/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/35b5a2fc-d497-42a8-bb21-dbaaba952338/public_url)
-  [![CKAD](https://images.credly.com/size/70x70/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/a7c524fe-d840-492e-aad2-b82317ddabf6/public_url)
-  [![CompTIA Security+](https://images.credly.com/size/70x70/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/4e6ceeaf-9fed-4391-92f0-db19cdbc0d40/public_url)
-  [![Google Cybersecurity Cert](https://images.credly.com/size/70x70/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/badges/dec3dab2-d159-40d9-b462-0f1d19d170fd/public_url)
-  [![ISC2 CC](https://images.credly.com/size/70x70/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/07c8d9d4-110f-4164-b9a7-6f6ad976471e/public_url)
-  [![KCNA](https://images.credly.com/size/70x70/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/b85a0eb5-87f5-4567-a8a7-9fe7b7eff65d/public_url)
 
----
 
 ## 🚀 Featured Projects
 
