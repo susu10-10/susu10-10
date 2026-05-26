@@ -28,7 +28,7 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 ```
 
 - 🔭 Building and securing **cloud-native infrastructure** with Kubernetes, Terraform & CI/CD pipelines
-- 🔐 Passionate about **shifting security left** — integrating SAST, DAST, and policy-as-code into every pipeline
+- 🔐 Passionate about **shifting security left** integrating SAST, DAST, and policy-as-code into every pipeline
 - 👯 Looking to collaborate on **open-source DevSecOps tooling** and cloud-native security projects
 - 💬 Ask me about **Kubernetes, container security, IaC, or compliance-as-code**
 - I believe the best security team is one that makes it easier to do the right thing than the wrong thing.
