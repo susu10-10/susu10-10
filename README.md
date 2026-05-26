@@ -23,7 +23,7 @@ Name        : Su
 Role        : DevSecOps Engineer
 Focus       : Cloud Native Security · Infrastructure as Code · CI/CD Automation
 Passions    : [Kubernetes, Security Hardening, Multi-Cloud, Open Source]
-Currently   : Masters (MPhil Degree) Research and building production-grade pipelines 🔐
+Currently   : Master's (MPhil) research — building production-grade pipelines 🔐
 Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 ```
 
@@ -31,7 +31,7 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 - 🔐 Passionate about **shifting security left** — integrating SAST, DAST, and policy-as-code into every pipeline
 - 👯 Looking to collaborate on **open-source DevSecOps tooling** and cloud-native security projects
 - 💬 Ask me about **Kubernetes, container security, IaC, or compliance-as-code**
--  I believe the best security team is one that makes it easier to do the right thing than the wrong thing
+- I believe the best security team is one that makes it easier to do the right thing than the wrong thing.
 
 ---
 
@@ -98,12 +98,13 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 |---------|-------------|-------|
 | [3-Tier K8s Automation: Phase 1](https://github.com/susu10-10/3tier-k8s-Automation) | CKAD‑style deployment of PostgreSQL, Flask API, and Nginx frontend using Kustomize, initContainers, and resource governance. Foundation for zero‑trust security lab. | Kubernetes · Kustomize · PostgreSQL · Flask · Nginx |
 | [3-Tier K8s Hardening: Phase 2](https://github.com/susu10-10/3tier-k8s-Hardening) | Hardened version with Pod Security Standards, non‑root users, read‑only filesystems, dropped capabilities, network policies, and secret management. | Kubernetes · Pod Security Standards · NetworkPolicies |
+| [Terraform Associate Pocket Guide](https://github.com/susu10-10/TF004-PocketGuide) | A comprehensive pocket guide for the Terraform Associate certification exam. | Terraform · Infrastructure as Code |
 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
   <br/><br/>
-  <i>⭐ If you find my work helpful, consider starring a repo — it means a lot! ⭐</i>
+  <i>⭐ If you find my work helpful, consider starring a repo, it means a lot! ⭐</i>
 </div>
 
 ---
