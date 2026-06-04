@@ -119,7 +119,7 @@ Available   : Open to DevSecOps / Platform Engineering opportunities 🎯
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [3-Tier K8s Automation: Phase 1](https://github.com/susu10-10/3tier-k8s-Automation) | CKAD‑style deployment of PostgreSQL, Flask API, and Nginx frontend using Kustomize, initContainers, and resource governance. Foundation for zero‑trust security lab. | Kubernetes · Kustomize · PostgreSQL · Flask · Nginx |
+| [3-Tier K8s Automation: Phase 1](https://github.com/susu10-10/k8s-3tier-automation) | CKAD‑style deployment of PostgreSQL, Flask API, and Nginx frontend using Kustomize, initContainers, and resource governance. Foundation for zero‑trust security lab. | Kubernetes · Kustomize · PostgreSQL · Flask · Nginx |
 | [3-Tier K8s Hardening: Phase 2](https://github.com/susu10-10/3tier-k8s-Hardening) | Hardened version with Pod Security Standards, non‑root users, read‑only filesystems, dropped capabilities, network policies, and secret management. | Kubernetes · Pod Security Standards · NetworkPolicies |
 | [Terraform Associate Pocket Guide](https://github.com/susu10-10/TF004-PocketGuide) | A comprehensive pocket guide for the Terraform Associate certification exam. | Terraform · Infrastructure as Code |
 
