@@ -28,16 +28,16 @@
 Name        : Su
 Role        : DevSecOps & Cloud Security Engineer
 Focus       : Zero-Trust Architecture · Cloud Security Automation· Supply-Chain Security
-Growing Into: AI Security — LLM guardrails, prompt injection defense, policy enforcement
-Available   : Open to DevSecOps / Platform / Cloud Security roles open to relocation 🌍
+Growing Into: AI Security, LLM guardrails, prompt injection defense, policy enforcement
+Available   : Open to DevSecOps | Platform | Cloud Security roles | open to relocation 🌍
 ```
 
-- 🔐 I design and ship zero-trust cloud platforms, signed and verified container images, policy enforced at admission time
-- 🛡️ I believe security should be shifted left and automated, not bolted on every project I ship has scanning, signing, and policy gates built into CI/CD from day one
-- 🤖 Currently expanding into AI security, hands-on with prompt injection testing and LLM policy enforcement pipelines, applying the same automation-first instincts to a new attack surface
-- 👯 Open to collaborating on open-source DevSecOps and cloud security tooling
-- 💬 Ask me about zero-trust networking, Kubernetes hardening, supply-chain security, or AI/LLM security
-- 🧭 The best security team is the one that makes it easier to do the right thing than the wrong thing
+- 🔐 I design and ship zero-trust cloud platforms, signed and verified container images, policy enforced at admission time.
+- 🛡️ I believe security should be shifted left and automated, not bolted, on every project I ship has scanning, signing, and policy gates built into CI/CD from day one.
+- 🤖 Currently expanding into AI security, hands-on with prompt injection testing and LLM policy enforcement pipelines, applying the same automation-first instincts to a new attack surface.
+- 👯 Open to collaborating on open-source DevSecOps and cloud security tooling.
+- 💬 Ask me about zero-trust networking, Kubernetes hardening, supply-chain security, or AI/LLM security.
+- 🧭 The best security team is the one that makes it easier to do the right thing than the wrong thing.
 
 ---
 
