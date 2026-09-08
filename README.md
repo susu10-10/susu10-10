@@ -1,7 +1,3 @@
-<!-- ============================================= -->
-<!-- GitHub Profile README — susu10-10/susu10-10 -->
-<!-- Copy this entire file's content into your existing README.md -->
-<!-- ============================================= -->
 
 <div align="center">
 
@@ -29,7 +25,7 @@ Name        : Su
 Role        : DevSecOps & Cloud Security Engineer
 Focus       : Zero-Trust Architecture · Cloud Security Automation· Supply-Chain Security
 Growing Into: AI Security, LLM guardrails, prompt injection defense, policy enforcement
-Available   : Open to DevSecOps | Platform | Cloud Security roles | open to relocation 🌍
+Available   : Open to DevSecOps | Platform | Cloud Security roles |
 ```
 
 - 🔐 I design and ship zero-trust cloud platforms, signed and verified container images, policy enforced at admission time.
@@ -46,7 +42,7 @@ Available   : Open to DevSecOps | Platform | Cloud Security roles | open to relo
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 **Containers & Kubernetes**
 
@@ -77,7 +73,7 @@ Available   : Open to DevSecOps | Platform | Cloud Security roles | open to relo
 
 **AWS**
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed) [![AWS App Networking](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44) [![AWS Serverless](https://img.shields.io/badge/AWS_Serverless_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca)
+[![AWS SAA](https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed) [![AWS App Networking](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44) [![AWS Serverless](https://img.shields.io/badge/AWS_Serverless_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca) ![AWS Incident Response](https://img.shields.io/badge/AWS_Incident_Response–Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
 
