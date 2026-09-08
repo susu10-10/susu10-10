@@ -22,7 +22,7 @@
 
 ```yaml
 Name        : Su
-Role        : DevSecOps & Cloud Security Engineer
+Role        : DevSecOps Engineer | Cloud Security Engineer | Platform Engineer
 Focus       : Zero-Trust Architecture · Cloud Security Automation· Supply-Chain Security
 Growing Into: AI Security, LLM guardrails, prompt injection defense, policy enforcement
 Available   : Open to DevSecOps | Platform | Cloud Security roles |
@@ -74,7 +74,6 @@ Available   : Open to DevSecOps | Platform | Cloud Security roles |
 **AWS**
 
 [![AWS SAA](https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed) [![AWS App Networking](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44) [![AWS Serverless](https://img.shields.io/badge/AWS_Serverless_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca) ![AWS Incident Response](https://img.shields.io/badge/AWS_Incident_Response–Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
 
 
 **Security & Cloud-Native**
