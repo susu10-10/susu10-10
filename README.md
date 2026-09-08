@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Su+%F0%9F%91%8B;DevSecOps+%2B+Cloud+Security+Engineer;Zero-Trust+%7C+Kubernetes+%7C+AWS;Building+Toward+AI+Security+%F0%9F%A4%96" alt="Typing SVG" />
+# Success Chukwu (Su)
 
+**DevSecOps & Cloud Security Engineer** 
+
+Zero-Trust · Kubernetes · AWS · Building Toward AI Security 🤖
 
 <br/>
 
@@ -22,7 +24,7 @@
 
 ```yaml
 Name        : Su
-Role        : DevSecOps Engineer | Cloud Security Engineer | Platform Engineer
+Role        : DevSecOps Engineer & Cloud Security Engineer
 Focus       : Zero-Trust Architecture · Cloud Security Automation· Supply-Chain Security
 Growing Into: AI Security, LLM guardrails, prompt injection defense, policy enforcement
 Available   : Open to DevSecOps | Platform | Cloud Security roles |
@@ -73,7 +75,7 @@ Available   : Open to DevSecOps | Platform | Cloud Security roles |
 
 **AWS**
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed) [![AWS App Networking](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44) [![AWS Serverless](https://img.shields.io/badge/AWS_Serverless_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca) ![AWS Incident Response](https://img.shields.io/badge/AWS_Incident_Response–Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+[![AWS SAA](https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed) [![AWS App Networking](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44) [![AWS Serverless](https://img.shields.io/badge/AWS_Serverless_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca) [![AWS Incident Response](https://img.shields.io/badge/AWS_Incident_Response–Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/6c0895c8-cbf3-4434-adac-ff333b1fb58d)
 
 
 **Security & Cloud-Native**
