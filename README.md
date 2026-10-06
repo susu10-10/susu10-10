@@ -75,7 +75,11 @@ Available   : Open to DevSecOps | Platform | Cloud Security roles |
 
 **AWS**
 
-[![AWS DevOps Pro](https://img.shields.io/badge/AWS_Certified_DevOps_Engineer–Professional-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/862cad5d-7b1c-4cf1-a9ef-e230369b0f18) [![AWS SAA](https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed) [![AWS App Networking](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44) [![AWS Serverless](https://img.shields.io/badge/AWS_Serverless_Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca) [![AWS Incident Response](https://img.shields.io/badge/AWS_Incident_Response–Demonstrated-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/6c0895c8-cbf3-4434-adac-ff333b1fb58d)
+[![AWS DevOps Pro](https://img.shields.io/badge/AWS_Certified-DevOps_Engineer_Professional-005F6B?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/862cad5d-7b1c-4cf1-a9ef-e230369b0f18) [![AWS SAA](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-0047AB?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/6a188d64-3897-47c0-9f31-41b163a0d2ed)
+[![AWS App Networking](https://img.shields.io/badge/AWS_-_Networking_Demonstrated-6A1B9A?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/aacdb626-0d5f-49e6-a042-720abf312a44)
+[![AWS Serverless](https://img.shields.io/badge/AWS_-Serverless_Demonstrated-6A1B9A?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/b8271b42-482b-4901-85a2-e865e21382ca)
+[![AWS Incident Response](https://img.shields.io/badge/AWS_-Incident_Response_Demonstrated-6A1B9A?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/earner/earned/badge/6c0895c8-cbf3-4434-adac-ff333b1fb58d)
+
 
 
 **Security & Cloud-Native**
